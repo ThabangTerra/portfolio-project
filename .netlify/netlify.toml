@@ -12,7 +12,7 @@ package = "@netlify/angular-runtime"
 [plugins.inputs]
 
 [build]
-publish = "C:\\Users\\thaba\\OneDrive\\Desktop\\prot\\my-app\\dist\\my-app\\browser"
+publish = "C:\\Users\\thaba\\OneDrive\\Desktop\\prot\\my-portfilio\\dist\\my-portfilio\\browser"
 publishOrigin = "ui"
 commandOrigin = "ui"
 command = "npm run build"
