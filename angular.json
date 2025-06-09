@@ -40,19 +40,14 @@
               }
             ],
             "styles": [
-              "src/styles.scss",
-              "bootstrap/dist/css/bootstrap.min.css",
+              "src/styles.scss", 
               "node_modules/bootstrap/scss/bootstrap.scss",
-              "bootstrap-icons/font/bootstrap-icons.css",
-              "aos/dist/aos.css",
-              "swiper/swiper-bundle.min.css",
-              "src/assets/vendor/glightbox/css/glightbox.min.css",
-              "src/assets/css/main.css"
+              "src/assets/vendor/glightbox/css/glightbox.min.css"
             ],
             "scripts": [
               "node_modules/@popperjs/core/dist/umd/popper.min.js",
-              "node_modules/bootstrap/dist/js/bootstrap.min.js",
-              "node_modules/swiper/swiper-bundle.min.js"
+              "node_modules/bootstrap/dist/js/bootstrap.min.js"
+        
             ]
           },
           "configurations": {
