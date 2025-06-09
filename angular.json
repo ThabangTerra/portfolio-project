@@ -41,11 +41,11 @@
             ],
             "styles": [
               "src/styles.scss",
-              "node_modules/bootstrap/dist/css/bootstrap.min.scss",
+              "bootstrap/dist/css/bootstrap.min.css",
               "node_modules/bootstrap/scss/bootstrap.scss",
-              "node_modules/bootstrap-icons/font/bootstrap-icons.css",
-              "node_modules/aos/dist/aos.css",
-              "node_modules/swiper/swiper-bundle.min.css",
+              "bootstrap-icons/font/bootstrap-icons.css",
+              "aos/dist/aos.css",
+              "swiper/swiper-bundle.min.css",
               "src/assets/vendor/glightbox/css/glightbox.min.css",
               "src/assets/css/main.css"
             ],
